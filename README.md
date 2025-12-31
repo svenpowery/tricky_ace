@@ -1,6 +1,4 @@
 # Tricky Ace
-
-Created by: Ganela Mayo-Johnson
 Human vs. Computer Python card game
 Uses a standard deck of 48 playing cards with the kings removed
 
